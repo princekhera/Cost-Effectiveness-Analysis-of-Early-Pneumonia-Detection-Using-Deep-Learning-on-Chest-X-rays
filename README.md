@@ -62,7 +62,13 @@ Plots include:
 
 Cost-effectiveness acceptability curve (CEAC)
 
+<img width="2400" height="1604" alt="plot_zoom_png (1)" src="https://github.com/user-attachments/assets/40756022-6773-41c1-80a6-8062c1437243" />
+
+
 Tornado diagram for key variables
+
+<img width="2400" height="1604" alt="plot_zoom_png (2)" src="https://github.com/user-attachments/assets/9b72c7f6-ed23-4cda-b14c-0b0fb97b68c8" />
+
 
 💰 Interpretation
 
