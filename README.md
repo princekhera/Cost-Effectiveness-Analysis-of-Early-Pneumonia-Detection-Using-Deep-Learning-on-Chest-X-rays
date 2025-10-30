@@ -56,6 +56,10 @@ Mortality reduction assumptions
 
 Plots include:
 
+
+<img width="2400" height="1604" alt="plot_zoom_png" src="https://github.com/user-attachments/assets/0088fcad-f697-440f-ba18-cbf5b25bce77" />
+
+
 Cost-effectiveness acceptability curve (CEAC)
 
 Tornado diagram for key variables
